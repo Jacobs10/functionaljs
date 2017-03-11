@@ -417,8 +417,8 @@ assertObjectsEqual(actual, expected, 'it detects that two objects are equal');
 
 
 ----
-Interview
-// Ryan Jacobs jacobs9590@gmail.com
+
+
 
 function assert(expectedBehavior, descriptionOfCorrectBehavior) {
   if (!expectedBehavior) {
